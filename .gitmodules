@@ -1,0 +1,6 @@
+[submodule "Advent-of-Code-2024"]
+	path = Advent-of-Code-2024
+	url = https://github.com/ALXS-GitHub/Advent-Of-Code-2024
+[submodule "Advent-of-Code-2023"]
+	path = Advent-of-Code-2023
+	url = https://github.com/ALXS-GitHub/Advent-of-Code-2023
