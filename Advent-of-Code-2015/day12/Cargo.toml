@@ -1,0 +1,16 @@
+[package]
+name = "day12"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "*"
+serde = "*"
+serde_json = "*"
+
+[dev-dependencies]
+criterion = "*"
+
+[[bench]]
+name = "criterion"
+harness = false
