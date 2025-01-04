@@ -70,6 +70,15 @@ The solutions for each day can be found in the following table. The time are bei
 | 🗓️12🗓️ | ⛄[/day12/src/part1.rs](/day12/src/part1.rs)⛄ | 🎁[/day12/src/part2.rs](/day12/src/part2.rs)🎁 | ❄️178.45 µs❄️ | 🎄418.57 µs🎄 |
 | 🗓️13🗓️ | ⛄[/day13/src/part1.rs](/day13/src/part1.rs)⛄ | 🎁[/day13/src/part2.rs](/day13/src/part2.rs)🎁 | ❄️81.028 ms❄️ | 🎄797.33 ms🎄 |
 | 🗓️14🗓️ | ⛄[/day14/src/part1.rs](/day14/src/part1.rs)⛄ | 🎁[/day14/src/part2.rs](/day14/src/part2.rs)🎁 | ❄️1.6078 ms❄️ | 🎄2.5651 ms🎄 |
+| 🗓️15🗓️ | ⛄[/day15/src/part1.rs](/day15/src/part1.rs)⛄ | 🎁[/day15/src/part2.rs](/day15/src/part2.rs)🎁 | ❄️13.939 ms❄️ | 🎄15.694 ms🎄 |
+| 🗓️16🗓️ | ⛄[/day16/src/part1.rs](/day16/src/part1.rs)⛄ | 🎁[/day16/src/part2.rs](/day16/src/part2.rs)🎁 | ❄️1.8216 ms❄️ | 🎄1.8927 ms🎄 |
+| 🗓️17🗓️ | ⛄[/day17/src/part1.rs](/day17/src/part1.rs)⛄ | 🎁[/day17/src/part2.rs](/day17/src/part2.rs)🎁 | ❄️3.0891 µs❄️ | 🎄4.0762 µs🎄 |
+| 🗓️18🗓️ | ⛄[/day18/src/part1.rs](/day18/src/part1.rs)⛄ | 🎁[/day18/src/part2.rs](/day18/src/part2.rs)🎁 | ❄️16.952 ms❄️ | 🎄17.450 ms🎄 |
+| 🗓️19🗓️ | ⛄[/day19/src/part1.rs](/day19/src/part1.rs)⛄ | 🎁[/day19/src/part2.rs](/day19/src/part2.rs)🎁 | ❄️420.86 µs❄️ | 🎄818.80 µs🎄 |
+| 🗓️20🗓️ | ⛄[/day20/src/part1.rs](/day20/src/part1.rs)⛄ | 🎁[/day20/src/part2.rs](/day20/src/part2.rs)🎁 | ❄️340.62 ms❄️ | 🎄364.26 ms🎄 |
+| 🗓️21🗓️ | ⛄[/day21/src/part1.rs](/day21/src/part1.rs)⛄ | 🎁[/day21/src/part2.rs](/day21/src/part2.rs)🎁 | ❄️170.99 µs❄️ | 🎄174.96 µs🎄 |
+| 🗓️22🗓️ | ⛄[/day22/src/part1.rs](/day22/src/part1.rs)⛄ | 🎁[/day22/src/part2.rs](/day22/src/part2.rs)🎁 | ❄️755.55 ms❄️ | 🎄1.2101 s🎄 |
+| 🗓️23🗓️ | ⛄[/day23/src/part1.rs](/day23/src/part1.rs)⛄ | 🎁[/day23/src/part2.rs](/day23/src/part2.rs)🎁 | ❄️17.470 µs❄️ | 🎄11.083 µs🎄 |
 
 ## Template
 
