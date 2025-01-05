@@ -5,6 +5,8 @@ I am using Rust to solve most of the challenges, and I will try to optimize the 
 
 I am using the same template I used for year 2024.
 
+![](images/stars.png)
+
 ## Usage
 
 You can run my solutions by running the following commands:
@@ -79,6 +81,8 @@ The solutions for each day can be found in the following table. The time are bei
 | 🗓️21🗓️ | ⛄[/day21/src/part1.rs](/day21/src/part1.rs)⛄ | 🎁[/day21/src/part2.rs](/day21/src/part2.rs)🎁 | ❄️170.99 µs❄️ | 🎄174.96 µs🎄 |
 | 🗓️22🗓️ | ⛄[/day22/src/part1.rs](/day22/src/part1.rs)⛄ | 🎁[/day22/src/part2.rs](/day22/src/part2.rs)🎁 | ❄️755.55 ms❄️ | 🎄1.2101 s🎄 |
 | 🗓️23🗓️ | ⛄[/day23/src/part1.rs](/day23/src/part1.rs)⛄ | 🎁[/day23/src/part2.rs](/day23/src/part2.rs)🎁 | ❄️17.470 µs❄️ | 🎄11.083 µs🎄 |
+| 🗓️24🗓️ | ⛄[/day24/src/part1.rs](/day24/src/part1.rs)⛄ | 🎁[/day24/src/part2.rs](/day24/src/part2.rs)🎁 | ❄️240.49 ms❄️ | 🎄37.947 ms🎄 |
+| 🗓️25🗓️ | ⛄[/day25/src/part1.rs](/day25/src/part1.rs)⛄ | 🎁[/day25/src/part2.rs](/day25/src/part2.rs)🎁 | ❄️73.408 ms❄️ | 🎄50x⭐🎄 |
 
 ## Template
 
