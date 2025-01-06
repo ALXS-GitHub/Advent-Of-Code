@@ -80,6 +80,8 @@ pub fn fetch_input(path: &str, year: u32, day: u32, force: bool) {
         .text()
         .expect("Failed to read response text");
 
+    let response = response.trim_end().to_string();
+
     fs::write(path, response).expect("Failed to write input file");
 
     println!("\x1b[33m\x1b[1mFetched input for day {} of year {} to '{}'\x1b[0m", day, year, path);
