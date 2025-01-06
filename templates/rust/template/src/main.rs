@@ -24,6 +24,7 @@ fn main() {
     // Fetch input
     // if fetch, force fetching and overwrite existing input file, else just fetch if the file doesn't exist
     fetch_input(path, year, day, fetch);
+    if fetch { return }; // exit if fetch is true
 
     // Start timer for reading input
     let now = Instant::now();

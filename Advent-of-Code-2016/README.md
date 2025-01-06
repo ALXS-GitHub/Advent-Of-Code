@@ -1,4 +1,4 @@
-# [⛄ Advent Of Code 2015 ⛄](https://adventofcode.com/2015)
+# [⛄ Advent Of Code 2016 ⛄](https://adventofcode.com/2016)
 
 I am doing the 2016 edition of the Advent of Code years later, just for fun and to improve my problem solving skills. 
 I am using Rust to solve most of the challenges, and I will try to optimize the code as much as possible.
@@ -74,7 +74,9 @@ This command will run the code with the test input file instead of the real inpu
 
 The solutions for each day can be found in the following table. The time are being calculated using the `criterion` crate for accurate benchmarks. Note that most of the challenges are done without any parallelism, except for some days where I judged it was necessary to get faster results.
 
-
+| 🗓️Day🗓️ | ⛄Part 1 Solution⛄ | 🎁Part 2 Solution🎁 | ❄️Part 1 Time❄️ | 🎄Part 2 Time🎄 |
+|:-------:|:------------------:|:------------------:|:--------------:|:--------------:|
+| 🗓️1🗓️ | ⛄[/day1/src/part1.rs](/day1/src/part1.rs)⛄ | 🎁[/day1/src/part2.rs](/day1/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 |
 
 ## Template
 
