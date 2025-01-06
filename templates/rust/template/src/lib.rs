@@ -60,7 +60,7 @@ pub fn read_input(path: &str) -> Vec<String> {
     return input;
 }
 
-fn fetch_input(path: &str, year: u32, day: u32, force: bool) {
+pub fn fetch_input(path: &str, year: u32, day: u32, force: bool) {
 
     if !force && fs::metadata(path).is_ok() {
         return;
@@ -85,9 +85,10 @@ fn fetch_input(path: &str, year: u32, day: u32, force: bool) {
     println!("\x1b[33m\x1b[1mFetched input for day {} of year {} to '{}'\x1b[0m", day, year, path);
 }
 
-fn get_day() -> u32 {
-    "{{project_name}}".to_string()
+pub fn get_day() -> u32 {
+    let d = "{{project-name}}".to_string()
         .trim_start_matches("day")
         .parse::<u32>()
         .expect("Invalid day number");
+    d
 }

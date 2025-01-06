@@ -76,3 +76,7 @@ cargo run -- --test
 ```
 
 This command will run the code with the test input file instead of the real input file.
+
+## Cleaning all
+
+I also provide a `clean_all.ps1` script that you can use to clean all the `target` folders in all the project that starts with `day`.
