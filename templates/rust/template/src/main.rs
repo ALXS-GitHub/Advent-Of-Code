@@ -19,12 +19,14 @@ fn main() {
 
     let run_part1 = part1 || (!part1 && !part2);
     let run_part2 = part2 || (!part1 && !part2);
-    let path = if test { test_path } else { path };
-
+    
     // Fetch input
     // if fetch, force fetching and overwrite existing input file, else just fetch if the file doesn't exist
     fetch_input(path, year, day, fetch);
     if fetch { return }; // exit if fetch is true
+    
+    // Use test input if test flag is provided
+    let path = if test { test_path } else { path };
 
     // Start timer for reading input
     let now = Instant::now();
