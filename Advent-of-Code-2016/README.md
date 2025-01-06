@@ -1,14 +1,7 @@
-# Rust Template
+# [⛄ Advent Of Code 2015 ⛄](https://adventofcode.com/2015)
 
-Do you want to use my rust template for your own solutions? 
-
-Then just get the `template` folder from this repository and use the following command to create a new day:
-
-```sh
-cargo generate --path ./template
-```
-
-Then it will ask you for the project name, just enter the name you want to give for the day and it will create a new folder with the template code for you.
+I am doing the 2016 edition of the Advent of Code years later, just for fun and to improve my problem solving skills. 
+I am using Rust to solve most of the challenges, and I will try to optimize the code as much as possible.
 
 ## Usage
 
@@ -76,3 +69,25 @@ cargo run -- --test
 ```
 
 This command will run the code with the test input file instead of the real input file.
+
+## Solutions
+
+The solutions for each day can be found in the following table. The time are being calculated using the `criterion` crate for accurate benchmarks. Note that most of the challenges are done without any parallelism, except for some days where I judged it was necessary to get faster results.
+
+
+
+## Template
+
+Do you want to use my rust template for your own solutions? 
+
+Then just get the `template` folder from this repository and use the following command to create a new day:
+
+```sh
+cargo generate --path ./template
+```
+
+Then it will ask you for the project name, just enter the name you want to give for the day and it will create a new folder with the template code for you.
+
+## Author
+
+⛄ [ALXS](https://github.com/ALXS-GitHub)
