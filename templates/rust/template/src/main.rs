@@ -1,22 +1,35 @@
-use {{project-name}}::{read_input, part1, part2};
+use {{project-name}}::{read_input, fetch_input, get_day, part1, part2};
 use std::env;
 use std::time::{Instant};
 
 fn main() {
 
+    // Config
+    let path = "input.txt";
+    let test_path = "inputtest.txt"; // no methods to fetch test input, so it must be provided manually
+    let year: u32 = 2024;
+    let day: u32 = get_day();
+
     // Parse command-line arguments
     let args: Vec<String> = env::args().collect();
     let part1 = args.contains(&"--part1".to_string());
     let part2 = args.contains(&"--part2".to_string());
+    let fetch = args.contains(&"--fetch".to_string());
+    let test = args.contains(&"--test".to_string());
 
     let run_part1 = part1 || (!part1 && !part2);
     let run_part2 = part2 || (!part1 && !part2);
+    let path = if test { test_path } else { path };
+
+    // Fetch input
+    // if fetch, force fetching and overwrite existing input file, else just fetch if the file doesn't exist
+    fetch_input(year, day, path, fetch);
 
     // Start timer for reading input
     let now = Instant::now();
 
     // Read input
-    let input: Vec<String> = read_input("input.txt");
+    let input: Vec<String> = read_input(path);
 
     // Stop timer for reading input
     let elapsed = now.elapsed();
