@@ -76,7 +76,21 @@ The solutions for each day can be found in the following table. The time are bei
 
 | 🗓️Day🗓️ | ⛄Part 1 Solution⛄ | 🎁Part 2 Solution🎁 | ❄️Part 1 Time❄️ | 🎄Part 2 Time🎄 |
 |:-------:|:------------------:|:------------------:|:--------------:|:--------------:|
-| 🗓️1🗓️ | ⛄[/day1/src/part1.rs](/day1/src/part1.rs)⛄ | 🎁[/day1/src/part2.rs](/day1/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 |
+| 🗓️1🗓️ | ⛄[/day1/src/part1.rs](/day1/src/part1.rs)⛄ | 🎁[/day1/src/part2.rs](/day1/src/part2.rs)🎁 | ❄️16.009 µs❄️ | 🎄36.355 µs🎄 |
+| 🗓️2🗓️ | ⛄[/day2/src/part1.rs](/day2/src/part1.rs)⛄ | 🎁[/day2/src/part2.rs](/day2/src/part2.rs)🎁 | ❄️19.598 µs❄️ | 🎄21.644 µs🎄 |
+| 🗓️3🗓️ | ⛄[/day3/src/part1.rs](/day3/src/part1.rs)⛄ | 🎁[/day3/src/part2.rs](/day3/src/part2.rs)🎁 | ❄️978.26 µs❄️ | 🎄978.19 µs🎄 |
+| 🗓️4🗓️ | ⛄[/day4/src/part1.rs](/day4/src/part1.rs)⛄ | 🎁[/day4/src/part2.rs](/day4/src/part2.rs)🎁 | ❄️1.3500 ms❄️ | 🎄722.10 µs🎄 |
+| 🗓️5🗓️ | ⛄[/day5/src/part1.rs](/day5/src/part1.rs)⛄ | 🎁[/day5/src/part2.rs](/day5/src/part2.rs)🎁 | ❄️2.2291 s❄️ | 🎄6.5611 s🎄 |
+| 🗓️6🗓️ | ⛄[/day6/src/part1.rs](/day6/src/part1.rs)⛄ | 🎁[/day6/src/part2.rs](/day6/src/part2.rs)🎁 | ❄️47.028 µs❄️ | 🎄44.357 µs🎄 |
+| 🗓️7🗓️ | ⛄[/day7/src/part1.rs](/day7/src/part1.rs)⛄ | 🎁[/day7/src/part2.rs](/day7/src/part2.rs)🎁 | ❄️702.48 µs❄️ | 🎄1.0949 ms🎄 |
+| 🗓️8🗓️ | ⛄[/day8/src/part1.rs](/day8/src/part1.rs)⛄ | 🎁[/day8/src/part2.rs](/day8/src/part2.rs)🎁 | ❄️467.08 µs❄️ | 🎄422.02 µs🎄 |
+| 🗓️9🗓️ | ⛄[/day9/src/part1.rs](/day9/src/part1.rs)⛄ | 🎁[/day9/src/part2.rs](/day9/src/part2.rs)🎁 | ❄️42.222 µs❄️ | 🎄383.99 µs🎄 |
+| 🗓️10🗓️ | ⛄[/day10/src/part1.rs](/day10/src/part1.rs)⛄ | 🎁[/day10/src/part2.rs](/day10/src/part2.rs)🎁 | ❄️3.1812 ms❄️ | 🎄3.2382 ms🎄 |
+| 🗓️11🗓️ | ⛄[/day11/src/part1.rs](/day11/src/part1.rs)⛄ | 🎁[/day11/src/part2.rs](/day11/src/part2.rs)🎁 | ❄️3.5 s❄️ | 🎄⚠️+120 s🎄 |
+
+Notes : Day 11 was a mess. I used a brute force approach for part 2 (as for part1) and it took a long time to run. I still looking for an optimized solution for this problem.
+
+
 
 ## Template
 
