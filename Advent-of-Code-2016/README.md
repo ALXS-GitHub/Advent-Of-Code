@@ -91,6 +91,12 @@ The solutions for each day can be found in the following table. The time are bei
 | 🗓️13🗓️ | ⛄[/day13/src/part1.rs](/day13/src/part1.rs)⛄ | 🎁[/day13/src/part2.rs](/day13/src/part2.rs)🎁 | ❄️42.968 µs❄️ | 🎄72.733 µs🎄 |
 | 🗓️14🗓️ | ⛄[/day14/src/part1.rs](/day14/src/part1.rs)⛄ | 🎁[/day14/src/part2.rs](/day14/src/part2.rs)🎁 | ❄️312.36 ms❄️ | 🎄⚠️24 s🎄 |
 | 🗓️15🗓️ | ⛄[/day15/src/part1.rs](/day15/src/part1.rs)⛄ | 🎁[/day15/src/part2.rs](/day15/src/part2.rs)🎁 | ❄️218.63 µs❄️ | 🎄212.12 µs🎄 |
+| 🗓️16🗓️ | ⛄[/day16/src/part1.rs](/day16/src/part1.rs)⛄ | 🎁[/day16/src/part2.rs](/day16/src/part2.rs)🎁 | ❄️5.3278 µs❄️ | 🎄407.65 ms🎄 |
+| 🗓️17🗓️ | ⛄[/day17/src/part1.rs](/day17/src/part1.rs)⛄ | 🎁[/day17/src/part2.rs](/day17/src/part2.rs)🎁 | ❄️25.153 µs❄️ | 🎄53.560 ms🎄 |
+| 🗓️18🗓️ | ⛄[/day18/src/part1.rs](/day18/src/part1.rs)⛄ | 🎁[/day18/src/part2.rs](/day18/src/part2.rs)🎁 | ❄️27.727 µs❄️ | 🎄432.46 ms🎄 |
+| 🗓️19🗓️ | ⛄[/day19/src/part1.rs](/day19/src/part1.rs)⛄ | 🎁[/day19/src/part2.rs](/day19/src/part2.rs)🎁 | ❄️65.073 ms❄️ | 🎄10.535 ns🎄 |
+| 🗓️20🗓️ | ⛄[/day20/src/part1.rs](/day20/src/part1.rs)⛄ | 🎁[/day20/src/part2.rs](/day20/src/part2.rs)🎁 | ❄️222.29 µs❄️ | 🎄300.07 µs🎄 |
+| 🗓️21🗓️ | ⛄[/day21/src/part1.rs](/day21/src/part1.rs)⛄ | 🎁[/day21/src/part2.rs](/day21/src/part2.rs)🎁 | ❄️2.4080 ms❄️ | 🎄2.3076 ms🎄 |
 
 Notes : Day 11 was a mess. I used a brute force approach for part 2 (as for part1) and it took a long time to run. I still looking for an optimized solution for this problem.
 
