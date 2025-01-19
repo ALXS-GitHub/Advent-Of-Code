@@ -3,6 +3,8 @@
 I am doing the 2016 edition of the Advent of Code years later, just for fun and to improve my problem solving skills. 
 I am using Rust to solve most of the challenges, and I will try to optimize the code as much as possible.
 
+![](images/2025-01-19-16-46-06.png)
+
 ## Usage
 
 You can run my solutions by running the following commands:
@@ -97,6 +99,10 @@ The solutions for each day can be found in the following table. The time are bei
 | 🗓️19🗓️ | ⛄[/day19/src/part1.rs](/day19/src/part1.rs)⛄ | 🎁[/day19/src/part2.rs](/day19/src/part2.rs)🎁 | ❄️65.073 ms❄️ | 🎄10.535 ns🎄 |
 | 🗓️20🗓️ | ⛄[/day20/src/part1.rs](/day20/src/part1.rs)⛄ | 🎁[/day20/src/part2.rs](/day20/src/part2.rs)🎁 | ❄️222.29 µs❄️ | 🎄300.07 µs🎄 |
 | 🗓️21🗓️ | ⛄[/day21/src/part1.rs](/day21/src/part1.rs)⛄ | 🎁[/day21/src/part2.rs](/day21/src/part2.rs)🎁 | ❄️2.4080 ms❄️ | 🎄2.3076 ms🎄 |
+| 🗓️22🗓️ | ⛄[/day22/src/part1.rs](/day22/src/part1.rs)⛄ | 🎁[/day22/src/part2.rs](/day22/src/part2.rs)🎁 | ❄️1.6301 ms❄️ | 🎄678.40 µs🎄 |
+| 🗓️23🗓️ | ⛄[/day23/src/part1.rs](/day23/src/part1.rs)⛄ | 🎁[/day23/src/part2.rs](/day23/src/part2.rs)🎁 | ❄️1.6897 ms❄️ | 🎄1.2431 ms🎄 |
+| 🗓️24🗓️ | ⛄[/day24/src/part1.rs](/day24/src/part1.rs)⛄ | 🎁[/day24/src/part2.rs](/day24/src/part2.rs)🎁 | ❄️173.97 ms❄️ | 🎄391.89 ms🎄 |
+| 🗓️25🗓️ | ⛄[/day25/src/part1.rs](/day25/src/part1.rs)⛄ | 🎁[/day25/src/part2.rs](/day25/src/part2.rs)🎁 | ❄️64.452 ms❄️ | 🎄50⭐🎄 |
 
 Notes : Day 11 was a mess. I used a brute force approach for part 2 (as for part1) and it took a long time to run. I still looking for an optimized solution for this problem.
 
