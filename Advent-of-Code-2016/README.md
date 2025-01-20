@@ -72,6 +72,10 @@ cargo run -- --test
 
 This command will run the code with the test input file instead of the real input file.
 
+## Cleaning all
+
+I also provide a `clean_all.ps1` script that you can use to clean all the `target` folders in all the project that starts with `day`.
+
 ## Solutions
 
 The solutions for each day can be found in the following table. The time are being calculated using the `criterion` crate for accurate benchmarks. Note that most of the challenges are done without any parallelism, except for some days where I judged it was necessary to get faster results.

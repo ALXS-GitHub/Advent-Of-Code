@@ -1,14 +1,6 @@
-# Rust Template
+# [⛄ Advent Of Code 20XX ⛄](https://adventofcode.com/20XX)
 
-Do you want to use my rust template for your own solutions? 
-
-Then just get the `template` folder from this repository and use the following command to create a new day:
-
-```sh
-cargo generate --path ./template
-```
-
-Then it will ask you for the project name, just enter the name you want to give for the day and it will create a new folder with the template code for you.
+*Description*
 
 ## Usage
 
@@ -80,3 +72,53 @@ This command will run the code with the test input file instead of the real inpu
 ## Cleaning all
 
 I also provide a `clean_all.ps1` script that you can use to clean all the `target` folders in all the project that starts with `day`.
+
+## Solutions
+
+The solutions for each day can be found in the following table. The time are being calculated using the `criterion` crate for accurate benchmarks. Note that most of the challenges are done without any parallelism, except for some days where I judged it was necessary to get faster results.
+
+The difficulty is a subjective value that I give to the challenge, based on the time it took me to solve it, the complexity of the problem and other factors that I consider important at the time I solved it. The possible ratings are the following : ⚪ (no difficulty), 🟢 (easy), 🟡 (medium), 🟠 (hard), 🔴 (very hard), ⚫ (extreme). Other criteria could be given along the difficulty : 🔵 (long), 🟣 (hand made / use of a trick), 🟤 (brute force).
+
+| 🗓️Day🗓️ | ⛄Part 1 Solution⛄ | 🎁Part 2 Solution🎁 | ❄️Part 1 Time❄️ | 🎄Part 2 Time🎄 | 🏔️Difficulty🏔️ |
+|:-------:|:------------------:|:------------------:|:--------------:|:--------------:| :------------: |
+<!-- | 🗓️1🗓️ | ⛄[/day1/src/part1.rs](/day1/src/part1.rs)⛄ | 🎁[/day1/src/part2.rs](/day1/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️2🗓️ | ⛄[/day2/src/part1.rs](/day2/src/part1.rs)⛄ | 🎁[/day2/src/part2.rs](/day2/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️3🗓️ | ⛄[/day3/src/part1.rs](/day3/src/part1.rs)⛄ | 🎁[/day3/src/part2.rs](/day3/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️4🗓️ | ⛄[/day4/src/part1.rs](/day4/src/part1.rs)⛄ | 🎁[/day4/src/part2.rs](/day4/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️5🗓️ | ⛄[/day5/src/part1.rs](/day5/src/part1.rs)⛄ | 🎁[/day5/src/part2.rs](/day5/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️6🗓️ | ⛄[/day6/src/part1.rs](/day6/src/part1.rs)⛄ | 🎁[/day6/src/part2.rs](/day6/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️7🗓️ | ⛄[/day7/src/part1.rs](/day7/src/part1.rs)⛄ | 🎁[/day7/src/part2.rs](/day7/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️8🗓️ | ⛄[/day8/src/part1.rs](/day8/src/part1.rs)⛄ | 🎁[/day8/src/part2.rs](/day8/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️9🗓️ | ⛄[/day9/src/part1.rs](/day9/src/part1.rs)⛄ | 🎁[/day9/src/part2.rs](/day9/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️10🗓️ | ⛄[/day10/src/part1.rs](/day10/src/part1.rs)⛄ | 🎁[/day10/src/part2.rs](/day10/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️11🗓️ | ⛄[/day11/src/part1.rs](/day11/src/part1.rs)⛄ | 🎁[/day11/src/part2.rs](/day11/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️12🗓️ | ⛄[/day12/src/part1.rs](/day12/src/part1.rs)⛄ | 🎁[/day12/src/part2.rs](/day12/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️13🗓️ | ⛄[/day13/src/part1.rs](/day13/src/part1.rs)⛄ | 🎁[/day13/src/part2.rs](/day13/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️14🗓️ | ⛄[/day14/src/part1.rs](/day14/src/part1.rs)⛄ | 🎁[/day14/src/part2.rs](/day14/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️15🗓️ | ⛄[/day15/src/part1.rs](/day15/src/part1.rs)⛄ | 🎁[/day15/src/part2.rs](/day15/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️16🗓️ | ⛄[/day16/src/part1.rs](/day16/src/part1.rs)⛄ | 🎁[/day16/src/part2.rs](/day16/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️17🗓️ | ⛄[/day17/src/part1.rs](/day17/src/part1.rs)⛄ | 🎁[/day17/src/part2.rs](/day17/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️18🗓️ | ⛄[/day18/src/part1.rs](/day18/src/part1.rs)⛄ | 🎁[/day18/src/part2.rs](/day18/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️19🗓️ | ⛄[/day19/src/part1.rs](/day19/src/part1.rs)⛄ | 🎁[/day19/src/part2.rs](/day19/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️20🗓️ | ⛄[/day20/src/part1.rs](/day20/src/part1.rs)⛄ | 🎁[/day20/src/part2.rs](/day20/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️21🗓️ | ⛄[/day21/src/part1.rs](/day21/src/part1.rs)⛄ | 🎁[/day21/src/part2.rs](/day21/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️22🗓️ | ⛄[/day22/src/part1.rs](/day22/src/part1.rs)⛄ | 🎁[/day22/src/part2.rs](/day22/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️23🗓️ | ⛄[/day23/src/part1.rs](/day23/src/part1.rs)⛄ | 🎁[/day23/src/part2.rs](/day23/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️24🗓️ | ⛄[/day24/src/part1.rs](/day24/src/part1.rs)⛄ | 🎁[/day24/src/part2.rs](/day24/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+<!-- | 🗓️25🗓️ | ⛄[/day25/src/part1.rs](/day25/src/part1.rs)⛄ | 🎁[/day25/src/part2.rs](/day25/src/part2.rs)🎁 | ❄️___❄️ | 🎄50⭐🎄 | 🏔️ _ 🏔️ | -->
+
+## Template
+
+Do you want to use my rust template for your own solutions? 
+
+Then just get the `template` folder from this repository and use the following command to create a new day:
+
+```sh
+cargo generate --path ./template
+```
+
+Then it will ask you for the project name, just enter the name you want to give for the day and it will create a new folder with the template code for you.
+
+## Author
+
+⛄ [ALXS](https://github.com/ALXS-GitHub)

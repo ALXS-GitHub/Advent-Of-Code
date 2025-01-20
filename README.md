@@ -6,5 +6,7 @@ Details for each year can be found in the respective directories.
 
 ## Completed
 
+- 2015
+- 2016
 - [2023](https://github.com/ALXS-GitHub/Advent-of-Code-2023)
 - [2024](https://github.com/ALXS-GitHub/Advent-Of-Code-2024)
