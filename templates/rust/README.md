@@ -77,7 +77,7 @@ I also provide a `clean_all.ps1` script that you can use to clean all the `targe
 
 The solutions for each day can be found in the following table. The time are being calculated using the `criterion` crate for accurate benchmarks. Note that most of the challenges are done without any parallelism, except for some days where I judged it was necessary to get faster results.
 
-The difficulty is a subjective value that I give to the challenge, based on the time it took me to solve it, the complexity of the problem and other factors that I consider important at the time I solved it. The possible ratings are the following : ⚪ (no difficulty), 🟢 (easy), 🟡 (medium), 🟠 (hard), 🔴 (very hard), ⚫ (extreme). Other criteria could be given along the difficulty : 🔵 (long), 🟣 (hand made / use of a trick), 🟤 (brute force).
+The difficulty is a subjective value that I give to the challenge, based on the time it took me to solve it, the complexity of the problem and other factors that I consider important at the time I solved it. The possible ratings are the following : ⚪ (no difficulty), 🟢 (easy), 🟡 (medium), 🟠 (hard), 🔴 (very hard), ⚫ (extreme). Other criteria could be given along the difficulty : 🔵 (long), 🟣 (hand made / use of a trick), 🟤 (brute force), 📖 (learned something / new algorithm), ❓ (hard to understand), 🦀 (harder in rust).
 
 | 🗓️Day🗓️ | ⛄Part 1 Solution⛄ | 🎁Part 2 Solution🎁 | ❄️Part 1 Time❄️ | 🎄Part 2 Time🎄 | 🏔️Difficulty🏔️ |
 |:-------:|:------------------:|:------------------:|:--------------:|:--------------:| :------------: |
