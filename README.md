@@ -2,7 +2,7 @@
 
 This repository contains all my solutions for all the years of the Advent of Code challenge.
 
-Details for each year can be found in the respective directories.
+**Details for each year can be found in the respective directories.**
 
 ## Completed
 
@@ -12,7 +12,7 @@ Details for each year can be found in the respective directories.
 - [2023](https://github.com/ALXS-GitHub/Advent-of-Code-2023)
 - [2024](https://github.com/ALXS-GitHub/Advent-Of-Code-2024)
 
-## AI Usage Rules
+## Personal AI Usage Rules
 
 For the Advent of Code challenges, I allow the use of AI tools such as ChatGPT and GitHub Copilot to assist me. However, I adhere to the following rules to ensure the provided solutions remain my own work. 
 
@@ -25,7 +25,6 @@ Examples of acceptable prompts:
 - "In Rust, is there a function that I can use to count the number of 1s in a binary representation of an integer or should I implement it myself?"
 - "How to define an ordered struct based on the 'name' field in Rust?"
 - "How to use the 'group_by' function from the 'itertools' crate in Rust? Can you provide an example?"
-- "Can you remind me how to build Dijkstra's algorithm?"
 - ...
 
 Examples of unacceptable prompts:
