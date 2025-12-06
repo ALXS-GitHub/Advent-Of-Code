@@ -86,7 +86,7 @@ The difficulty is a subjective value that I give to the challenge, based on the 
 | 🗓️3🗓️ | ⛄[/day3/src/part1.rs](/day3/src/part1.rs)⛄ | 🎁[/day3/src/part2.rs](/day3/src/part2.rs)🎁 | ❄️86.378 µs❄️ | 🎄193.44 µs🎄 | 🏔️ 🟢 🏔️ |
 | 🗓️4🗓️ | ⛄[/day4/src/part1.rs](/day4/src/part1.rs)⛄ | 🎁[/day4/src/part2.rs](/day4/src/part2.rs)🎁 | ❄️114.83 µs❄️ | 🎄2.0887 ms🎄 | 🏔️ ⚪ 🏔️ |
 | 🗓️5🗓️ | ⛄[/day5/src/part1.rs](/day5/src/part1.rs)⛄ | 🎁[/day5/src/part2.rs](/day5/src/part2.rs)🎁 | ❄️104.09 µs❄️ | 🎄26.838 µs🎄 | 🏔️ 🟢 🏔️ |
-<!-- | 🗓️6🗓️ | ⛄[/day6/src/part1.rs](/day6/src/part1.rs)⛄ | 🎁[/day6/src/part2.rs](/day6/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
+| 🗓️6🗓️ | ⛄[/day6/src/part1.rs](/day6/src/part1.rs)⛄ | 🎁[/day6/src/part2.rs](/day6/src/part2.rs)🎁 | ❄️73.297 µs❄️ | 🎄2.3391 ms🎄 | 🏔️ 🟢 🏔️ |
 <!-- | 🗓️7🗓️ | ⛄[/day7/src/part1.rs](/day7/src/part1.rs)⛄ | 🎁[/day7/src/part2.rs](/day7/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
 <!-- | 🗓️8🗓️ | ⛄[/day8/src/part1.rs](/day8/src/part1.rs)⛄ | 🎁[/day8/src/part2.rs](/day8/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
 <!-- | 🗓️9🗓️ | ⛄[/day9/src/part1.rs](/day9/src/part1.rs)⛄ | 🎁[/day9/src/part2.rs](/day9/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
