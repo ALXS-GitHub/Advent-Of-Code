@@ -1,0 +1,15 @@
+[package]
+name = "day7"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "*", features = ["blocking", "json"] }
+dotenv = "*"
+
+[dev-dependencies]
+criterion = "*"
+
+[[bench]]
+name = "criterion"
+harness = false
