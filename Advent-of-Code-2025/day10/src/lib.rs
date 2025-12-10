@@ -15,7 +15,7 @@ mod tests {
     #[test]
     #[ignore]
     fn test_test_part1() {
-        let correct_answer = 0;
+        let correct_answer = 7;
         let input: Vec<String> = read_input("inputtest.txt");
         let answer = part1::part1(&input);
         assert_eq!(answer, correct_answer, "\x1b[31m\x1b[1mExpected {}, got {}\x1b[0m", correct_answer, answer);
@@ -23,7 +23,7 @@ mod tests {
 
     #[test]
     fn test_part1() {
-        let correct_answer = 0;
+        let correct_answer = 419;
         let input: Vec<String> = read_input("input.txt");
         let answer = part1::part1(&input);
         assert_eq!(answer, correct_answer, "\x1b[31m\x1b[1mExpected {}, got {}\x1b[0m", correct_answer, answer);
@@ -32,7 +32,7 @@ mod tests {
     #[test]
     #[ignore]
     fn test_test_part2() {
-        let correct_answer = 0;
+        let correct_answer = 33;
         let input: Vec<String> = read_input("inputtest.txt");
         let answer = part2::part2(&input);
         assert_eq!(answer, correct_answer, "\x1b[31m\x1b[1mExpected {}, got {}\x1b[0m", correct_answer, answer);
@@ -40,7 +40,7 @@ mod tests {
 
     #[test]
     fn test_part2() {
-        let correct_answer = 0;
+        let correct_answer = 18369;
         let input: Vec<String> = read_input("input.txt");
         let answer = part2::part2(&input);
         assert_eq!(answer, correct_answer, "\x1b[31m\x1b[1mExpected {}, got {}\x1b[0m", correct_answer, answer);

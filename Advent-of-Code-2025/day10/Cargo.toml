@@ -6,6 +6,8 @@ edition = "2021"
 [dependencies]
 reqwest = { version = "*", features = ["blocking", "json"] }
 dotenv = "*"
+regex = "*"
+z3 = { version = "0.12.1", features = ["static-link-z3"] }
 
 [dev-dependencies]
 criterion = "*"
