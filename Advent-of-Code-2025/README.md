@@ -2,6 +2,10 @@
 
 As for last year, I'm doing the advent of code using Rust.
 
+![](images/2025-12-12-18-40-48.png)
+
+This year, there was only 12 days available for the challenge!
+
 ## Usage
 
 You can run my solutions by running the following commands:
@@ -92,7 +96,7 @@ The difficulty is a subjective value that I give to the challenge, based on the 
 | 🗓️9🗓️ | ⛄[/day9/src/part1.rs](/day9/src/part1.rs)⛄ | 🎁[/day9/src/part2.rs](/day9/src/part2.rs)🎁 | ❄️159.56 µs❄️ | 🎄19.850 ms🎄 | 🏔️ 🔴📖 🏔️ |
 | 🗓️10🗓️ | ⛄[/day10/src/part1.rs](/day10/src/part1.rs)⛄ | 🎁[/day10/src/part2.rs](/day10/src/part2.rs)🎁 | ❄️0.011174 s❄️ | 🎄0.829446 s🎄 | 🏔️ 🔴 🏔️ |
 | 🗓️11🗓️ | ⛄[/day11/src/part1.rs](/day11/src/part1.rs)⛄ | 🎁[/day11/src/part2.rs](/day11/src/part2.rs)🎁 | ❄️435.59 µs❄️ | 🎄765.71 µs🎄 | 🏔️ 🟡 🏔️ |
-| 🗓️12🗓️ | ⛄[/day12/src/part1.rs](/day12/src/part1.rs)⛄ | 🎁[/day12/src/part2.rs](/day12/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ |
+| 🗓️12🗓️ | ⛄[/day12/src/part1.rs](/day12/src/part1.rs)⛄ | 🎁[/day12/src/part2.rs](/day12/src/part2.rs)🎁 | ❄️316.85 µs❄️ | 🎄⭐🎄 | 🏔️ ⚫->⚪ 🏔️ |
 <!-- | 🗓️13🗓️ | ⛄[/day13/src/part1.rs](/day13/src/part1.rs)⛄ | 🎁[/day13/src/part2.rs](/day13/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
 <!-- | 🗓️14🗓️ | ⛄[/day14/src/part1.rs](/day14/src/part1.rs)⛄ | 🎁[/day14/src/part2.rs](/day14/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
 <!-- | 🗓️15🗓️ | ⛄[/day15/src/part1.rs](/day15/src/part1.rs)⛄ | 🎁[/day15/src/part2.rs](/day15/src/part2.rs)🎁 | ❄️___❄️ | 🎄___🎄 | 🏔️ _ 🏔️ | -->
